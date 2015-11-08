@@ -1,0 +1,26 @@
+{
+  "name": "twitter-emojis",
+  "version": "0.0.0",
+  "description": "Search for tweets, filter on emojis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micnews/twitter-emojis.git"
+  },
+  "author": "mic.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micnews/twitter-emojis/issues"
+  },
+  "homepage": "https://github.com/micnews/twitter-emojis#readme",
+  "dependencies": {
+    "get-emojis": "^1.0.0",
+    "twitter-stream-channels": "^1.0.0"
+  },
+  "devDependencies": {
+    "chalk": "^1.1.1"
+  }
+}
