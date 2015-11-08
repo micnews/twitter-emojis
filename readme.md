@@ -1,6 +1,6 @@
 # twitter-emojis
 
-Get a twitter stream, with tweets that include emojis.
+Search twitter, get a stream with responses (but only responses that include emojis).
 
 ## Install
 
